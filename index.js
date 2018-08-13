@@ -1,4 +1,4 @@
-var litecore = require('litecore-lib');
-litecore.P2P = require('./lib');
+var rogercore = require('rogercore-lib');
+rogercore.P2P = require('./lib');
 
-module.exports = litecore.P2P;
+module.exports = rogercore.P2P;
